@@ -43,12 +43,12 @@ In refining the dataset for heightened accuracy, SQL commands were instrumental.
 
 *Syntax for Q1 and Q2*                      |   *NULL values removed*                
 :----------------------------------------------:|:--------------------------------:
-![](SWS1.png)                                    |      ![](Update.png)                
+![](SWS11.png)                                    |      ![](Update.png)                
 ---
 
 *Answer Q1*                                     |   *Answer Q2*                
 :----------------------------------------------:|:--------------------------------:
-![](q1.png)                                   |      ![](11.png)                
+![](q1.png)                                   |      ![](pp1.png)                
 ---
 
 In conclusion, the analysis provides a comprehensive categorization of employees' quality of life based on various ratings. To address concerns about poor quality of life, a deeper dive into the data is recommended. Senior Analysts, Software Consultants (Python), and Associate Consultants exhibit top ratings, warranting further investigation into their work-performance correlation. By narrowing down the data, insights into the distribution of employees across excellent, good, and poor ratings can offer a holistic view of job satisfaction. Six key insights are:
